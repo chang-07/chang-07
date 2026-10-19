@@ -8,10 +8,6 @@
 
 <small>[chang.work](https://chang.work)</small>
 
-<small>We're building a playground for your ideas.</small>
-
-<small>Our mission is to build AI tools that help people create, learn, and have fun.</small>
-
 <br>
 
 <p><a href="https://ecogpt.com/careers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chang-07/chang-07/output/apply-dark.svg"><img alt="Apply to join the Eco team" src="https://raw.githubusercontent.com/chang-07/chang-07/output/apply-light.svg" height="32"></picture></a></p>
