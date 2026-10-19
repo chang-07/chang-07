@@ -4,7 +4,7 @@
 
 ## Hey, I'm chang 👋
 
-<small>founding eng @ EcoGPT</small>
+<small>Founding eng @ EcoGPT</small>
 
 <small>[chang.work](https://chang.work)</small>
 
