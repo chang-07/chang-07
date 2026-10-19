@@ -4,7 +4,11 @@
 
 ## Hey, I'm chang 👋
 
-<small>I'm working on EcoGPT. We're building a playground for your ideas.</small>
+<small>Founding eng @ EcoGPT</small>
+
+<small>[chang.work](https://chang.work)</small>
+
+<small>We're building a playground for your ideas.</small>
 
 <small>Our mission is to build AI tools that help people create, learn, and have fun.</small>
 
